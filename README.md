@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/TekservixHQ/SmsGora.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/TekservixHQ/SmsGora.jl/actions/workflows/CI.yml)
 
+**SMS Gora SMS Gateway** - official Julia client: send and receive SMS through your own Android phones. By Tekservix.
+
 Julia client for the [SMS Gora SMS Gateway](https://tekservix.com/smsgora/) API.
 
 SMS Gora turns Android phones with ordinary SIM cards into an SMS gateway. Your code calls the API, a linked phone sends the text, and replies and delivery reports come back to you. Useful for alerts from simulations, lab equipment, trading or monitoring scripts. There's no sender ID registration and no per-message fee from us: your mobile operator bills the texts like any SMS.
